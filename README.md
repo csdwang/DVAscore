@@ -20,6 +20,10 @@ DVA.R: Generate DVA raw scores for input variants.
 
 #### **Demo:**
 
+Using the following command to download the demo:
+
+`git lfs clone https://github.com/csdwang/DVAscore.git`
+
 Using the following command to run the demo:
 
 `Rscript DVA.R dvatest.txt`
