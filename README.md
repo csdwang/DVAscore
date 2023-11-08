@@ -22,7 +22,7 @@ DVA.R: Generate DVA raw scores for input variants.
 
 Using the following command to download the demo:
 
-`git lfs clone https://github.com/csdwang/DVAscore.git`
+`git clone https://github.com/csdwang/DVAscore.git`
 
 Using the following command to run the demo:
 
